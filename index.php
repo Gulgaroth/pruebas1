@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         // commit1asdasdads
         // holakase
+        phpinfo();
         ?>
     </body>
 </html>
